@@ -1,0 +1,6 @@
+.header__lang-select {
+  display: flex;
+  column-gap: 18px;
+  align-items: end;
+  list-style-type: none;
+}
