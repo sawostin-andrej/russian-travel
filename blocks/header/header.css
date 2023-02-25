@@ -1,18 +1,18 @@
 .header {
-    margin: 0 auto;
-    padding: 28px 48px 56px 48px;
-    display: flex;
-    justify-content: space-between;
+  margin: 0 auto;
+  padding: 28px 48px 56px 48px;
+  display: flex;
+  justify-content: space-between;
 }
 
 @media screen and (max-width: 1023px) {
-    .header {
-      padding: 28px 24px 56px 24px;
-    }
+  .header {
+    padding: 28px 24px 56px 24px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .header {
-        padding: 16px 16px 48px 16px;
-    }
+  .header {
+    padding: 16px 16px 48px 16px;
+  }
 }

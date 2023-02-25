@@ -3,7 +3,7 @@
   padding-bottom: 80px;
   display: grid;
   grid-template-columns: 460px 484px;
-  grid-template-rows:auto 1fr;
+  grid-template-rows: auto 1fr;
   column-gap: 40px;
   row-gap: 48px;
 }
@@ -22,7 +22,7 @@
 @media screen and (max-width: 1023px) {
   .place {
     grid-template-columns: 340px 352px;
-      column-gap: 28px;
+    column-gap: 28px;
     padding-bottom: 72px;
   }
 }

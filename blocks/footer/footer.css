@@ -7,16 +7,16 @@
 
 @media screen and (max-width: 1023px) {
   .footer {
-      padding: 0 24px 24px 24px;
+    padding: 0 24px 24px 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .footer {
-      margin: 0;
-      padding: 0 16px 24px 16px;
-      max-width: 186px;
-      flex-wrap: wrap;
-      row-gap: 48px;
+    margin: 0;
+    padding: 0 16px 24px 16px;
+    max-width: 186px;
+    flex-wrap: wrap;
+    row-gap: 48px;
   }
 }
