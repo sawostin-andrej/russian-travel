@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 767px) {
   .lead__image {
-    margin-top: 16px;
+    margin: 40px 2px 0 2px;
     object-fit: cover;
   }
 }
